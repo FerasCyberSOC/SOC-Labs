@@ -1,0 +1,9 @@
+09:00:12 LOGIN_SUCCESS user=ahmad src_ip=192.168.1.25
+09:02:18 FILE_ACCESS user=ahmad file=report.pdf
+09:04:31 FILE_ACCESS user=ahmad file=customers.xlsx
+09:05:02 FILE_ACCESS user=ahmad file=employees.xlsx
+09:05:19 FILE_ACCESS user=ahmad file=finance.xlsx
+09:06:10 FILE_DOWNLOAD user=ahmad file=customers.xlsx
+09:06:15 FILE_DOWNLOAD user=ahmad file=employees.xlsx
+09:06:21 FILE_DOWNLOAD user=ahmad file=finance.xlsx
+09:08:44 LOGOUT user=ahmad
