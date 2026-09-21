@@ -1,5 +1,0 @@
-2026-09-15 09:10:02 LOGIN_FAILED user=admin src_ip=192.168.1.50
-2026-09-15 09:10:08 LOGIN_FAILED user=admin src_ip=192.168.1.50
-2026-09-15 09:10:15 LOGIN_FAILED user=admin src_ip=192.168.1.50
-2026-09-15 09:10:23 LOGIN_SUCCESS user=admin src_ip=192.168.1.50
-2026-09-15 09:11:04 ACCOUNT_CREATED user=newadmin created_by=admin src_ip=192.168.1.50
